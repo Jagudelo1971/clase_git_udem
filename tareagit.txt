@@ -1,1 +1,2 @@
 Hola, esta es la primera línea de la prueba de funcionamiento
+Segunda linea para prueba git
